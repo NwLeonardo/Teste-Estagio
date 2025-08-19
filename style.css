@@ -92,11 +92,7 @@ button:hover {
 main{
     width: 80%;
     margin: calc(65vh + 100px) auto 0 auto;
-    padding: 20px 20px 60px 20px;
-    min-height: 120vh;
-    border: solid 0px;
-    border-radius: 25px;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    
 }
 
 p{
@@ -113,3 +109,11 @@ article img{
     width: 80%;
 }
 
+.container{
+    height: auto;
+    width: 100%;
+    padding: 20px 20px 60px 20px;
+    border: solid 0px;
+    border-radius: 25px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
