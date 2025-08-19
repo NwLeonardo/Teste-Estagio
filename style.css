@@ -36,7 +36,7 @@ header{
     left: 0;
     height: 65vh;
     width: 100vw;
-    background-image: url(/Images/header.png);
+    background-image: url(Images/header.png);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -112,4 +112,5 @@ article img{
     height: 50%;
     width: 80%;
 }
+
 
